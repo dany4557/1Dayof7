@@ -21,7 +21,7 @@ if (numeroTreinta.toString() === stringTreinta) {
 
 //Utilizamos la función de igual y le damos como parametro la variable numeroDiez , a lo que la función nos retornará el valor en string.
 if (String(numeroDiez) === stringDiez) {
-  console.log('Las variables numeroDiez y stringDiez tienen el mismo valor, pero tipos diferentes, aunque hemos tratado el Int con una función')
+  console.log('Las variables numeroDiez y stringDiez tienen el mismo valor, pero tipos diferentes, aunque hemos tratado el Int con una función');
 } else {
-  console.log('Las variables numeroDiez y stringDiez no tienen el mismo valor')
+  console.log('Las variables numeroDiez y stringDiez no tienen el mismo valor');
 }
